@@ -1,0 +1,23 @@
+{
+  "name": "mineflayer-notebot",
+  "version": "1.2",
+  "description": "minecraft bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@encode42/nbs.js": "^4.0.1",
+    "@tonejs/midi": "^2.0.28",
+    "chalk": "^4.1.2",
+    "fs": "0.0.1-security",
+    "minecraft-data": "^3.40.0",
+    "mineflayer": "^4.10.1",
+    "minimist": "^1.2.8",
+    "minimist-string": "^1.0.2",
+    "node-schedule": "^2.1.1"
+  }
+}
